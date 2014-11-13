@@ -13,13 +13,6 @@ This plugin extends the default plain-text Themes Editor with more features such
 == Description ==
 The WordPress default Themes Editor (in Appearance => Editor) is great for doing some custom changes to your theme files, although it is rather limited. This is where the CJTe Advanced Theme Editor can help.
 
-If you need more powerful features, then it is highly recommended to install a number of additional support plugins to compliment it. 
-These include the CJT extension plugins:
-
-- [Editor Themes](http://css-javascript-toolbox.com/extensions/editor-themes)
-- [Editor Toolbox](http://css-javascript-toolbox.com/extensions/editor-toolbox)
-- [Code Auto Completion](http://css-javascript-toolbox.com/extensions/code-auto-completion)
-
 == Installation ==
 1. Install and Activate the [CJT Plugin](http://wordpress.org/plugins/css-javascript-toolbox/)
 2. Install/Upload and then Activate the cjte-advanced-theme-editor.zip file using the WordPress Plugin uploader
@@ -27,12 +20,6 @@ These include the CJT extension plugins:
 == Frequently Asked Questions ==
 = How do I change themes for the Plugins Editor? =
 You would need to install and activate the Editor Themes extension plugin
-
-= How do I get the toolbar icons to show for the Plugins Editor? =
-You would need to install and activate the Editor Toolbox extension plugin
-
-= How do I get the Code Auto Completion feature to work for the Plugins Editor? =
-You would need to install and activate the Code Auto Completion extension plugin. If you are using either a Mac or a PC, the hot-key combination is Control + Space (i.e. Ctrl + Space bar)
 
 == Changelog ==
 = 0.5 =
