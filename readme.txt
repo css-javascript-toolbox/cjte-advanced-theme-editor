@@ -18,8 +18,17 @@ The WordPress default Themes Editor (in Appearance => Editor) is great for doing
 2. Install/Upload and then Activate the cjte-advanced-theme-editor.zip file using the WordPress Plugin uploader
 
 == Frequently Asked Questions ==
-= How do I change themes for the Plugins Editor? =
-You would need to install and activate the Editor Themes extension plugin
+= How do I change themes for the Themes Editor? =
+You would need to purchase, install and activate the CJT Developer plugin.
+
+= How do I get the toolbar icons to show for the Themes Editor? =
+You would need to purchase, install and activate the CJT Developer plugin.
+
+= How do I get the Code Auto Completion feature to work for the Themes Editor? =
+You would need to purchase, install and activate the CJT Developer plugin. To use this feature on either a Mac or a PC, the hot-key combination is Control + Space (i.e. Ctrl + Space bar)
+
+== Screenshots ==
+1. Advanced Theme Editor
 
 == Changelog ==
 = 0.5 =
